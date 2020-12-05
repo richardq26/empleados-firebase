@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ang-empleados": {
+      "hosting": {
+        "angular-empleados": [
+          "ang-empleados"
+        ]
+      }
+    }
+  }
+}

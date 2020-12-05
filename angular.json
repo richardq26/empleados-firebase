@@ -117,8 +117,13 @@
               "devServerTarget": "angular-empleados:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "angular-empleados"
 }
